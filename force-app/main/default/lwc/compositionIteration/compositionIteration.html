@@ -1,0 +1,9 @@
+<template>
+  <lightning-card title="Markup Directive (for)">
+    <template for:each={contacts} for:item="contact">
+      <p key={contact.Id} class="slds-text-align_center">
+        {contact.Name}
+      </p>
+    </template>
+  </lightning-card>
+</template>
