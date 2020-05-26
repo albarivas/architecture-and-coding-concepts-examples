@@ -1,4 +1,4 @@
-# Code Examples that show how to work with Salesforce Data in LWC
+# Code Examples that show how to architecture and coding concepts in LWC
 
 1. If you haven't already done so, authorize with your hub org and provide it with an alias (**myhuborg** in the command below):
 
