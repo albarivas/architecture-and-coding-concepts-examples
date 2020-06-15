@@ -25,10 +25,10 @@
             <componentName>eventHandler</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>baseComponents</componentName>
+            <componentName>compositionAndCommunication</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>communication</componentName>
+            <componentName>baseComponents</componentName>
         </componentInstances>
         <componentInstances>
             <componentName>clientSideNavigation</componentName>
