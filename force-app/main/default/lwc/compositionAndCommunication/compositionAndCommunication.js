@@ -1,8 +1,8 @@
 import { LightningElement } from "lwc";
-export default class Communication extends LightningElement {
+export default class CompositionAndCommunication extends LightningElement {
   myProperty = "Initial value";
 
-  handleButton1Click() {
-    this.myProperty = "Button 1 clicked";
+  handleAlbaClick() {
+    this.myProperty = "Alba Button clicked";
   }
 }
